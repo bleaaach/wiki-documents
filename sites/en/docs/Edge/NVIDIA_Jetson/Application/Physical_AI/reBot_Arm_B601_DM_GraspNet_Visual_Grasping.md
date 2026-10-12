@@ -620,6 +620,8 @@ GraspNet runs out of memory: reduce `--num-point`, reduce `--cloud-crop-nsample`
 - Orbbec pyorbbecsdk: https://github.com/orbbec/pyorbbecsdk
 - Install Pytorch for reComputer Jetson: https://wiki.seeedstudio.com/install_torch_on_recomputer/
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## Tech Support & Product Discussion
 

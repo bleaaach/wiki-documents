@@ -318,6 +318,8 @@ http://<board-ip>:8787/
 - [Robotics J601 硬件接口使用](https://wiki.seeedstudio.com/cn/recomputer_jetson_robotics_j601_interfaces_usage/)
 - [GitHub](https://github.com/xbs0325/j601-surround-demo)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们将为您提供多种支持，以确保您在使用我们产品的过程中尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

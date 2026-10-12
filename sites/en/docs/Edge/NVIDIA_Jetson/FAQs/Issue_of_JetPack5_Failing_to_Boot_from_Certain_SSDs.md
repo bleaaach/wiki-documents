@@ -85,6 +85,8 @@ When executing `./tools/kernel_flash/l4t_initrd_flash.sh` with the `--erase-all`
 
 - [Source code of Seeed's L4T](https://github.com/Seeed-Studio/Linux_for_Tegra)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

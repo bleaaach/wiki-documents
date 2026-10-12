@@ -1255,6 +1255,8 @@ reComputer Jetson Robotics J401 配备了一个 DP1.4（包含在 Type-C Host �
   triggerValue={typeof window !== 'undefined' ? window.location.href : ''}
 />
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们将为您提供多种支持，以确保您在使用我们产品的过程中尽可能顺利。我们提供多种沟通渠道，以满足不同的偏好和需求。

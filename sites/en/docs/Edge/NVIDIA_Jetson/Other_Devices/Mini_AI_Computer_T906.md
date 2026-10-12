@@ -731,6 +731,8 @@ The above expansion will not remove the original root directory contents from th
 
 - **[PDF]** [Mini AI Computer T906 datasheet](https://files.seeedstudio.com/wiki/AI_Computer_T906/Mini_AI_Computer_T906_datasheet.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

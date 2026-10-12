@@ -391,6 +391,8 @@ curl -s http://127.0.0.1:8000/api/hub/cameras
 - [MediaPipe Face Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
 - [Getting Started with reComputer Rugged J40](https://wiki.seeedstudio.com/cn/ai_robotics_recomputer_rugged_j40_getting_started/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们将为您提供多种支持，确保您在使用我们产品的过程中尽可能顺利。我们提供多种沟通渠道，以满足不同的偏好和需求。

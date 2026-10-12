@@ -918,6 +918,8 @@ sudo i2cdetect -y -r 1
 - [Linux_for_Tegra Source Code](https://github.com/Seeed-Studio/Linux_for_Tegra)
 - [NVIDIA Jetson Devices Comparison](https://files.seeedstudio.com/products/NVIDIA/NVIDIA-Jetson-Devices-and-carrier-boards-comparision.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 
 ## Tech Support & Product Discussion

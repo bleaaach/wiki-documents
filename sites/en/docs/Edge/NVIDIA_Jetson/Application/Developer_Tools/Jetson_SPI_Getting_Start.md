@@ -2044,6 +2044,8 @@ The ST7789 SPI LCD was used as the example display module in this guide. For oth
 
 - [Linux spidev userspace API](https://docs.kernel.org/spi/spidev.html)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

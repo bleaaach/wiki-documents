@@ -161,3 +161,5 @@ Please refer to this [wiki](/reComputer_J2021_J202_Flash_Jetpack) page for more 
 
 [Seeed Jetson Devices One Page](https://files.seeedstudio.com/wiki/Seeed_Jetson/Seeed-Jetson-one-pager.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+

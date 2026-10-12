@@ -412,6 +412,8 @@ sudo ./tools/kernel_flash/l4t_initrd_flash.sh --erase-all jetson-orin-nano-devki
   triggerValue={typeof window !== 'undefined' ? window.location.href : ''}
 />
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢你选择我们的产品！我们将为你提供多种支持，以确保你在使用我们产品的过程中尽可能顺利。我们提供多种沟通渠道，以满足不同的偏好和需求。

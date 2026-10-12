@@ -200,6 +200,8 @@ Seeed 文件 CDN 上的短视频片段，展示了实时 UI 中的滚动记忆�
 
 - 项目： https://github.com/xbs0325/Streaming-Vision-Agent-Orin
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 灵感与致谢
 
 这个边缘侧演示受 **WorldMM** 启发——一个用于长视频推理的动态多模态记忆 Agent（CVPR 2026 Highlight）。我们将其三层记忆理念（视觉 / 情节 / 语义）改造为 Jetson 上的实时滚动窗口。

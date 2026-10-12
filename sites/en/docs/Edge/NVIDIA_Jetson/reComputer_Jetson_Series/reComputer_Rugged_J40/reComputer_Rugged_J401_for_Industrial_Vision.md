@@ -391,6 +391,8 @@ Add extra RTSP sources to `HUB_EXTRA_CAMERAS` in `/etc/seg-demo/visual-hub.env`,
 - [MediaPipe Face Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
 - [Getting Started with reComputer Rugged J40](https://wiki.seeedstudio.com/ai_robotics_recomputer_rugged_j40_getting_started/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

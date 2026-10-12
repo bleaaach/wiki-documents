@@ -358,6 +358,8 @@ cat /etc/nv_tegra_release
 - [reComputer J30/J40 入门指南](https://wiki.seeedstudio.com/cn/reComputer_J30_40_with_Jetson_getting_start/)
 - [Seeed Jetson 设备一页概览](https://files.seeedstudio.com/wiki/Seeed_Jetson/Seeed-Jetson-one-pager.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢你选择我们的产品！我们将为你提供多种支持，确保你在使用我们产品的过程中尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

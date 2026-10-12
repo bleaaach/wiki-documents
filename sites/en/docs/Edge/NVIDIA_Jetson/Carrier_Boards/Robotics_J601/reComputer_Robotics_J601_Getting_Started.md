@@ -451,6 +451,8 @@ After you flash JetPack, explore the demo wikis below to see what you can build 
 - [Linux_for_Tegra BSP source](https://github.com/Seeed-Studio/Linux_for_Tegra)
 - [reComputer J601 Carrier Board Product Page](https://www.seeedstudio.com/reComputer-J601-Carrier-Board-for-Jetson-AGX-Thor-p-6937.html)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible.

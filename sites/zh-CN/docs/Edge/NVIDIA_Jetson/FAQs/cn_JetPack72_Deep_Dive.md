@@ -140,6 +140,8 @@ Seeed Jetson DevelopTool 为 Jetson 固件下载、烧录、设备连接和 OTA 
 - [NVIDIA JetPack Archive](https://developer.nvidia.com/embedded/jetpack-archive)
 - [Seeed Jetson Wiki](https://wiki.seeedstudio.com/cn/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们将为您提供多种支持，确保您在使用我们产品的过程中尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

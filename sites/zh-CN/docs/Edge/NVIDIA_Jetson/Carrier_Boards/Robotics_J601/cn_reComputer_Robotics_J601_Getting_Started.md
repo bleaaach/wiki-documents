@@ -451,6 +451,8 @@ sudo ./tools/kernel_flash/l4t_initrd_flash.sh --flash-only --showlogs --external
 - [Linux_for_Tegra BSP 源码](https://github.com/Seeed-Studio/Linux_for_Tegra)
 - [reComputer J601 载板产品页面](https://www.seeedstudio.com/reComputer-J601-Carrier-Board-for-Jetson-AGX-Thor-p-6937.html)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持
 
 感谢你选择我们的产品！我们将为你提供多种支持，以确保你在使用我们产品时拥有尽可能顺畅的体验。

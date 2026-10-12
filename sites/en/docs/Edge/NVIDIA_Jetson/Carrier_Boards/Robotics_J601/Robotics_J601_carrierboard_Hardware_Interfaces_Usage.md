@@ -1282,6 +1282,8 @@ Ensure you have a clear view of the sky for GPS signal acquisition. It may take 
 - [reComputer J601 Datasheet](https://files.seeedstudio.com/wiki/reComputer_Robotics_J601/reComputer_J601_Datasheet.pdf)
 - [Getting Started with reComputer Robotics J601](/ai_robotics_recomputer_robotics_j601_carrier_board_getting_started)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

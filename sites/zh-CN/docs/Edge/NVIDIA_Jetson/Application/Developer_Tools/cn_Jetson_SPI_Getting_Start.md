@@ -2044,6 +2044,8 @@ WriteData(0x08);
 
 - [Linux spidev 用户空间 API](https://docs.kernel.org/spi/spidev.html)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢你选择我们的产品！我们将为你提供多种支持，以确保你在使用我们产品时的体验尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

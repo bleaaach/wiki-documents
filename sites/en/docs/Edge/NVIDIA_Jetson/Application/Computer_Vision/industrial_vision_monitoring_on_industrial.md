@@ -187,6 +187,8 @@ Models download automatically on first `./run.sh`, or manually via `./scripts/do
 - Project: https://github.com/xbs0325/industrial-inspection
 - [Install Pytorch for reComputer Jetson](https://wiki.seeedstudio.com/install_torch_on_recomputer/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## Tech Support & Product Discussion
 
