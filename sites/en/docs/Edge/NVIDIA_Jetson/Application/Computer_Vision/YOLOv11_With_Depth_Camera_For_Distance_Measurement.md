@@ -1008,6 +1008,8 @@ Since Orbbec Gemini 2 is based on the structured light/dual-view scheme, on edge
 - [Orbbec pyorbbecsdk](https://github.com/orbbec/pyorbbecsdk)
 - [Ultralytics YOLOv11](https://github.com/ultralytics/ultralytics)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing Seeed Studio products! For technical support and product discussion, please use the following channels:

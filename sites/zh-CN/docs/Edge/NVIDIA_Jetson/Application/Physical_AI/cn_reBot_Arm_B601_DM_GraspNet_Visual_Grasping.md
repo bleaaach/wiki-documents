@@ -620,6 +620,8 @@ GraspNet 内存不足：请减小 `--num-point`，减小 `--cloud-crop-nsample`�
 - Orbbec pyorbbecsdk：https://github.com/orbbec/pyorbbecsdk
 - 为 reComputer Jetson 安装 Pytorch：https://wiki.seeedstudio.com/cn/install_torch_on_recomputer/
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## 技术支持与产品讨论
 

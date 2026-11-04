@@ -166,6 +166,8 @@ Please refer to this [wiki page](/J401_carrierboard_Hardware_Interfaces_Usage) f
 
 [Seeed Jetson Devices One Page](https://files.seeedstudio.com/wiki/Seeed_Jetson/Seeed-Jetson-one-pager.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## Tech Support & Product Discussion
 

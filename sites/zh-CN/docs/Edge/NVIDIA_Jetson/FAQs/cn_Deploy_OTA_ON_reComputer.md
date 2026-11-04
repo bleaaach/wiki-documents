@@ -356,6 +356,8 @@ cd ~/JP6.2/Linux_for_Tegra/tools/ota_tools/
 - [Seeed Jetson 系列目录](https://files.seeedstudio.com/wiki/Seeed_Jetson/Seeed-NVIDIA_Jetson_Catalog_V1.4.pdf)
 - [Seeed-Linux_for_Tegra](https://github.com/Seeed-Studio/Linux_for_Tegra/tree/r36.4.3)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择 Seeed Studio！如果您需要进一步的帮助，请通过以下渠道联系我们：

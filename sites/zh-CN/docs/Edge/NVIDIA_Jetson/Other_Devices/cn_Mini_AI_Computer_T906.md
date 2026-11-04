@@ -730,6 +730,8 @@ cd rootOnNVMe/
 
 - **[PDF]** [Mini AI Computer T906 数据手册](https://files.seeedstudio.com/wiki/AI_Computer_T906/Mini_AI_Computer_T906_datasheet.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们在这里为您提供不同的支持，以确保您使用我们产品的体验尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

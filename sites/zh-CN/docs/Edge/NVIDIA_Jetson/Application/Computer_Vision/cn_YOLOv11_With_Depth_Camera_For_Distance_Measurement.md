@@ -1007,6 +1007,8 @@ if __name__ == "__main__":
 - [Orbbec pyorbbecsdk](https://github.com/orbbec/pyorbbecsdk)
 - [Ultralytics YOLOv11](https://github.com/ultralytics/ultralytics)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择Seeed Studio产品！如需技术支持和产品讨论，请使用以下渠道：

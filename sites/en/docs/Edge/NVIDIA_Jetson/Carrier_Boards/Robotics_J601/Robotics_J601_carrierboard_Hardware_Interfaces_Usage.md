@@ -1492,6 +1492,8 @@ Ensure you have a clear view of the sky for GPS signal acquisition. It may take 
 
 The [J601 resource collection](/jetson/recomputer_robotics_j601/getting_started/#resources) provides the carrier-board datasheet, V1.0 schematic, STEP mechanical model, and Linux_for_Tegra BSP source. Use the schematic for signal routing and connector reference designators.
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

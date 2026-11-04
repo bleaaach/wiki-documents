@@ -161,3 +161,5 @@ reComputer J1020 v2 是一款基于 Jetson Nano 生产模块构建的强大而�
 
 [Seeed Jetson 设备单页介绍](https://files.seeedstudio.com/wiki/Seeed_Jetson/Seeed-Jetson-one-pager.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+

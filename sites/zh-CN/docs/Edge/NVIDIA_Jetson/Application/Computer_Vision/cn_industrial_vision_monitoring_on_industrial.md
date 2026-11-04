@@ -187,6 +187,8 @@ YOLO PPE 告警——未佩戴安全帽。
 - 项目：https://github.com/xbs0325/industrial-inspection
 - [Install Pytorch for reComputer Jetson](https://wiki.seeedstudio.com/cn/install_torch_on_recomputer/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## 技术支持与产品讨论
 

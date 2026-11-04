@@ -327,6 +327,8 @@ SG3S-ISX031C-G-GMSL2F 相机在全分辨率（1920x1536）下的最大显示帧�
 - [NVIDIA Jetson 下载中心](https://developer.nvidia.com/embedded/downloads)
 - [Ultralytics YOLOv26 在 NVIDIA Jetson 上的指南](https://docs.ultralytics.com/guides/nvidia-jetson/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## 技术支持与产品讨论
 

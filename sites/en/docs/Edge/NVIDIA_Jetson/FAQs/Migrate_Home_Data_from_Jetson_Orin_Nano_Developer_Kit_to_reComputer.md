@@ -358,6 +358,8 @@ This migration only restores `/home`. Docker images, system services, APT-instal
 - [reComputer J30/J40 Getting Started](https://wiki.seeedstudio.com/reComputer_J30_40_with_Jetson_getting_start/)
 - [Seeed Jetson Devices One Page](https://files.seeedstudio.com/wiki/Seeed_Jetson/Seeed-Jetson-one-pager.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

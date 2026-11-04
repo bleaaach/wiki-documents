@@ -494,6 +494,8 @@ Read TRTMC `qwen decoder` / `[trtmc-perf] Decode`, and llama.cpp `eval time` / `
 - [Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507)
 - [Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

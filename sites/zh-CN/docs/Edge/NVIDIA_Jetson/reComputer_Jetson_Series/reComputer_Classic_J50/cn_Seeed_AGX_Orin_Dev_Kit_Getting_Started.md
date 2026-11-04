@@ -763,6 +763,8 @@ cat /sys/devices/platform/bpmp/bpmp\:i2c/i2c-4/4-003c/nvvrs-pseq-rtc/rtc/rtc0/ti
 - [Seeed 的 L4T 源代码（Linux_for_Tegra）](https://github.com/Seeed-Studio/Linux_for_Tegra)
 - [NVIDIA Jetson AGX Orin 文档](https://developer.nvidia.com/embedded/jetson-agx-orin)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢你选择我们的产品！我们将为你提供多种支持，以确保你在使用我们产品时的体验尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

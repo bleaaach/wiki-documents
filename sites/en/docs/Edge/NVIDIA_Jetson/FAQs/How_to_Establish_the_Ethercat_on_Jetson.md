@@ -305,6 +305,8 @@ After executing the program, wait for about two seconds — the motor will begin
 
 - [Source code of EtherCAT Master](https://gitlab.com/etherlab.org/ethercat.git)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

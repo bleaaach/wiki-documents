@@ -166,6 +166,8 @@ reComputer J20 由 J202 载板供电。接口设计与 J30/J40 相同。
 
 [Seeed Jetson 设备一览](https://files.seeedstudio.com/wiki/Seeed_Jetson/Seeed-Jetson-one-pager.pdf)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## 技术支持与产品讨论
 

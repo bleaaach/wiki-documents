@@ -200,6 +200,8 @@ Recognition uses center-biased triggers and FULL + CENTER crop panels to reduce 
 
 - Project: https://github.com/xbs0325/Streaming-Vision-Agent-Orin
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Inspiration & Acknowledgments
 
 This edge demo is inspired by **WorldMM** — a dynamic multimodal memory agent for long video reasoning (CVPR 2026 Highlight). We adapt the three-memory idea (visual / episodic / semantic) to a real-time rolling window on Jetson.

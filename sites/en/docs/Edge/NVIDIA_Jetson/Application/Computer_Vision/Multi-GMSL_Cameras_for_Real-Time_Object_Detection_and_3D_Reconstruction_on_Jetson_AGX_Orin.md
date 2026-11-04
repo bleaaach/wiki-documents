@@ -781,6 +781,8 @@ Since the camera we are using is a fisheye camera with severe distortion, the im
 - [YOLOv11 Github](https://github.com/ultralytics/ultralytics)
 - [VGGT: Visual Geometry Grounded Transformer](https://vgg-t.github.io/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

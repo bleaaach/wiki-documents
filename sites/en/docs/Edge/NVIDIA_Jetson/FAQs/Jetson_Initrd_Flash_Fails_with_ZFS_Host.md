@@ -126,6 +126,8 @@ If the output shows `zfs`, use the ext4 workaround above before flashing.
 - [reServer J501 Getting Started](https://wiki.seeedstudio.com/reserver_j501_getting_started/)
 - [Flash JetPack with WSL2](https://wiki.seeedstudio.com/ai_robotics_flash_jetpack_with_wsl2/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## Tech Support & Product Discussion
 
 Thank you for choosing our products! We are here to provide you with different support to ensure that your experience with our products is as smooth as possible. We offer several communication channels to cater to different preferences and needs.

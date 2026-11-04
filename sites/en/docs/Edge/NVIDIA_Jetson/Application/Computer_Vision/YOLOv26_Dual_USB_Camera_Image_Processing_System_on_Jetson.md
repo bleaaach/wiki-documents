@@ -327,6 +327,8 @@ The SG3S-ISX031C-G-GMSL2F camera has a maximum display frame rate of 30fps at fu
 - [NVIDIA Jetson Download Center](https://developer.nvidia.com/embedded/downloads)
 - [Ultralytics YOLOv26 on NVIDIA Jetson Guide](https://docs.ultralytics.com/guides/nvidia-jetson/)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 
 ## Tech Support & Product Discussion
 

@@ -236,6 +236,8 @@ sudo ./tools/backup_restore/l4t_backup_restore.sh -e nvme0n1 -r recomputer-orin-
 - [Jetson 示例](https://github.com/Seeed-Projects/jetson-examples)
 - [reComputer-Jetson-初学者指南](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们将为您提供多种支持，确保您在使用我们产品的过程中尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

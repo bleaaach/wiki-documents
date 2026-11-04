@@ -1026,6 +1026,8 @@ pip3 install numpy==1.20.3
 - [Roboflow 文档](https://docs.roboflow.com)
 - [TensorRT 文档](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html)
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们在这里为您提供不同的支持，以确保您使用我们产品的体验尽可能顺畅。我们提供多种沟通渠道，以满足不同的偏好和需求。

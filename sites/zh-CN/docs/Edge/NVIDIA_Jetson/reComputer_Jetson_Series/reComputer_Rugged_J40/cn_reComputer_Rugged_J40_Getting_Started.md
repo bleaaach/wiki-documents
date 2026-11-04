@@ -461,6 +461,8 @@ sudo ./tools/kernel_flash/l4t_initrd_flash.sh \
   </a>
 </div>
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 感谢您选择我们的产品！我们将为您提供多种支持，以确保您在使用我们产品的过程中尽可能顺畅。

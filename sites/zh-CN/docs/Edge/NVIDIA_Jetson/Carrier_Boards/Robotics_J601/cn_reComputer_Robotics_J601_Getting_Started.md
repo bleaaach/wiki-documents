@@ -538,6 +538,8 @@ sudo ./tools/kernel_flash/l4t_initrd_flash.sh --flash-only --showlogs --external
   </a>
 </div>
 
+- [OSHW-Jetson-Series](https://github.com/Seeed-Studio/OSHW-Jetson-Series)
+
 ## 技术支持与产品讨论
 
 
